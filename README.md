@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **xieincz@gmail.com**
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Qt Creator 配置 git](https://xieincz.github.io/post/qt-creator-pei-zhi-git/)
 - [猪国杀（模板）](https://xieincz.github.io/post/zhu-guo-sha-mo-ban/)
