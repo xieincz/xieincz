@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Qt Creator 配置 git](https://xieincz.github.io/post/qt-creator-pei-zhi-git/)
+- [猪国杀（模板）](https://xieincz.github.io/post/zhu-guo-sha-mo-ban/)
+- [记事本](https://xieincz.github.io/post/ji-shi-ben/)
+- [TT与可怜的猫](https://xieincz.github.io/post/tt-yu-ke-lian-de-mao/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
