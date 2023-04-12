@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xieincz&show_icons=true&locale=en" alt="xieincz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xieincz&" alt="xieincz" /></p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
