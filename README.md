@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qt Creator 使用过程中的一些技巧/注意事项](https://xieincz.github.io/post/qt-creator-shi-yong-guo-cheng-zhong-de-yi-xie-ji-qiao-zhu-yi-shi-xiang/)
 - [Ubuntu 20.04 安装 Qt](https://xieincz.github.io/post/ubuntu-2004-an-zhuang-qt/)
 - [Qt Creator 配置 git](https://xieincz.github.io/post/qt-creator-pei-zhi-git/)
 - [猪国杀（模板）](https://xieincz.github.io/post/zhu-guo-sha-mo-ban/)
+- [记事本](https://xieincz.github.io/post/ji-shi-ben/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
