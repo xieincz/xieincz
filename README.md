@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://xieincz.github.io/](https://xieincz.github.io/)
 
-- 📫 How to reach me **xieincz@gmail.com**
+- 📫 How to reach me **xiebinofficial@gmail.com**
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
