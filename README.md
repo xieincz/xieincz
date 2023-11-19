@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [给Github Desktop设置代理](https://xieincz.github.io/post/gei-github-desktop-she-zhi-dai-li/)
 - [huggingface-go : 加速下载huggingface的模型和数据集](https://xieincz.github.io/post/huggingface-go-jia-su-xia-zai-huggingface-de-mo-xing-he-shu-ju-ji/)
 - [利用 Remotely Save 通过 Cloudflare R2 &lpar;S3 API&rpar; 在多个设备同步 Obsidian](https://xieincz.github.io/post/li-yong-remotely-save-tong-guo-cloudflare-r2-s3-api-zai-duo-ge-she-bei-tong-bu-obsidian/)
 - [2023计算机0科研的保研边缘人的挣扎之路（哈深、中大、华南理工、山大）](https://xieincz.github.io/post/2023-ji-suan-ji-0-ke-yan-de-bao-yan-bian-yuan-ren-de-zheng-zha-zhi-lu-ha-shen-zhong-da-hua-nan-li-gong-shan-da/)
-- [Linux system monitor —— 适合树莓派的系统信息监视器](https://xieincz.github.io/post/linux-system-monitor-gua-he-shu-mei-pai-de-xi-tong-xin-xi-jian-shi-qi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
