@@ -11,10 +11,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [配置win + ubuntu双系统需要注意的一些点](https://xieincz.github.io/post/pei-zhi-win-ubuntu-shuang-xi-tong-xu-yao-zhu-yi-de-yi-xie-dian/)
 - [大学生如何申请Visa、Mastercard信用卡](https://xieincz.github.io/post/da-xue-sheng-ru-he-shen-qing-visamastercard-xin-yong-qia/)
 - [给Github Desktop设置代理](https://xieincz.github.io/post/gei-github-desktop-she-zhi-dai-li/)
 - [huggingface-go : 加速下载huggingface的模型和数据集](https://xieincz.github.io/post/huggingface-go-jia-su-xia-zai-huggingface-de-mo-xing-he-shu-ju-ji/)
-- [利用 Remotely Save 通过 Cloudflare R2 &lpar;S3 API&rpar; 在多个设备同步 Obsidian](https://xieincz.github.io/post/li-yong-remotely-save-tong-guo-cloudflare-r2-s3-api-zai-duo-ge-she-bei-tong-bu-obsidian/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
