@@ -1,0 +1,28 @@
+name: Keep Repo Activate
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # 每月1日的UTC 00:00运行
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-date:
+    name: Update keep_repo_activate file
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update date in keep_repo_activate
+        run: |
+          date '+%Y.%-m.%-d' > keep_repo_activate
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add keep_repo_activate
+          git diff --staged --quiet || git commit -m "Update keep_repo_activate with current date"
+          git push
